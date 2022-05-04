@@ -1,16 +1,23 @@
 - 👋 Hi, I’m @xelab04
       
       Just call me Alex
-      I go by he/them. If you can't be respectful, DNI
+      I go by he/them. If you can't be respectful, just don't contact me.
       
 - 👀 I’m interested in ...
       
-      New, upcoming tech, including but not limited to AI, IoT, blockchain, crypto and a little in NFTs.
+      Dismantling electronic devices including, but not restricted to, phones, computers and washing machines.
+      New and upcoming tech
+      This includes:
+            - Artificial Intelligence & Machine Learning
+            - Internet of Things
+            - Blockchain, cryptocurrency and NFTs
+            - New hardware, such as graphics cards, CPUs and anything that goes inside a PC
       
 - 🌱 I’m currently learning ...
       
       Python, as well as a bit of VB.NET, Lua, and C++.
       Also taking part in Harvard's CS50 course on Artificial Intelligence.
+      I'm also learning to stop updating my GitHub every 2+ months and each update consisting of a dozen commits.
       
 - 💞️ I’m looking to collaborate on ...
       
