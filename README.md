@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xelab04
       
-      Just call me Alex
-      I go by he/them. If you can't be respectful, just don't contact me.
+      Just call me Alex, he/him.
       
 - 👀 I’m interested in ...
       
@@ -9,15 +8,17 @@
       New and upcoming tech
       This includes:
             - Artificial Intelligence & Machine Learning
+            - Cluster Computing
+            - Raspberry Pi's & SBCs
             - Internet of Things
             - Blockchain, cryptocurrency and NFTs
             - New hardware, such as graphics cards, CPUs and anything that goes inside a PC
       
 - 🌱 I’m currently learning ...
       
-      Python, as well as a bit of VB.NET, Lua, and C++.
-      Also taking part in Harvard's CS50 course on Artificial Intelligence.
+      Python, as well as a bit of HTML, CSS, JS and C.
       I'm also learning to stop updating my GitHub every 2+ months and each update consisting of a dozen commits.
+      Completed the CS50ai course on EDS.
       
 - 💞️ I’m looking to collaborate on ...
       
@@ -26,7 +27,7 @@
            
 - 📫 How to reach me ...
       
-      There's this amazing technology called emails. Here's my address: alexbissessur@gmail.com
+      I'm on Twitter and Telegram, as far as you mortals are concerned. Twitter handle is @Alex_with_a_B and Telegram is alexbissessur
 
 <!---
 xelab04/xelab04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
