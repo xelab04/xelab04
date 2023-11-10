@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xelab04
       
-      Just call me Alex, he/him.
+      Just call me Alex!
       
 - 👀 I’m interested in ...
       
@@ -16,14 +16,12 @@
       
 - 🌱 I’m currently learning ...
       
-      Python, as well as a bit of HTML, CSS, JS and C.
-      I'm also learning to stop updating my GitHub every 2+ months and each update consisting of a dozen commits.
-      Completed the CS50ai course on EDS.
+      Kubernetes - I have my own K3S cluster at home!
+      Linux - Well, everything I use runs Linux!
       
 - 💞️ I’m looking to collaborate on ...
       
-      Not really looking to collaborate, I'm about as useful as a potato, except less nutritional.
-      Seriously though, I would love to work on a project with other people but my skillset really isn't that great.
+      Pretty much anything. I'm fluent in Python, Kubernetes, Docker, and Linux
            
 - 📫 How to reach me ...
       
