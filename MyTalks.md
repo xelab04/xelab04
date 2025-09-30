@@ -50,15 +50,12 @@ https://2023.mscc.mu/speaker/80c8f586-0d9c-45a7-ae05-037cc1dce4e7
 
 
 ### Frontend Coders Mauritius
+https://coders.mu/speaker/a17bf7fa-e3ab-485a-9f28-06dfd5ecf89b
 **2024**
 - Kubernetes x Frontend MU
 
-  https://frontend.coders.mu/meetup/60
-
 **2023**
 - Understanding the basics of Kubernetes
-
-  https://frontend.coders.mu/meetup/49
 
 ### Mauritius Software Craftsmanship Community
 - Complaints about AI - old man yells at clouds [09/08/25]
