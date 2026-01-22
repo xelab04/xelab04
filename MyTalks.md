@@ -1,6 +1,11 @@
 # All My Talks
 I usually have this list somewhere on my website. But since it runs out of my living room's Kubernetes cluster, it might not have the best uptime. As a reminder, all my slides can be found at https://github.com/xelab04/Slides
 
+### KubeCon Europe 2026
+- ⚡ Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible Cloud
+
+  https://kccnceu2026.sched.com/event/2CW4l/cl-lightning-talk-krafting-the-cloud-building-a-free-open-and-accessible-cloud-alex-bissessur-la-sentinelle
+
 ### OpenSUSE Conference (Nuremberg) 2025
 - Production-Ready Virtualisation with Harvester and Longhorn
 
@@ -29,6 +34,12 @@ I am an organiser of the local cloud native community group, so I also play a pa
 - Meetup.mu the weekend project
 
   https://community.cncf.io/events/details/cncf-cloud-native-mauritius-presents-cloud-native-mauritius-may-meetup/
+- Hacktoberfest
+
+  https://community.cncf.io/events/details/cncf-cloud-native-mauritius-presents-cloud-native-hacktoberfest/  
+- Building a FOSS cloud for my homelab
+
+  https://community.cncf.io/events/details/cncf-cloud-native-mauritius-presents-cloud-native-mauritius-december-meetup/
 
 ### Developers Conference Mauritius
 **2025**
@@ -51,6 +62,9 @@ https://2023.mscc.mu/speaker/80c8f586-0d9c-45a7-ae05-037cc1dce4e7
 
 ### Frontend Coders Mauritius
 https://coders.mu/speaker/a17bf7fa-e3ab-485a-9f28-06dfd5ecf89b
+**2025**
+- Kubernetes x Frontend MU
+
 **2024**
 - Kubernetes x Frontend MU
 
