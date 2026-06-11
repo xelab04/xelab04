@@ -1,5 +1,5 @@
 # All My Talks
-I usually have this list somewhere on my website. But since it runs out of my living room's Kubernetes cluster, it might not have the best uptime. As a reminder, all my slides can be found at https://github.com/xelab04/Slides
+I usually have this list somewhere on my website. But since it runs out of my living room's Kubernetes cluster, it might not have the best uptime. As a reminder, all my slides can be found at https://git.alexbissessur.dev/alex/Slides.git which is mirrored to https://github.com/xelab04/Slides
 
 ### KubeCon Europe 2026
 - ⚡ Lightning Talk: KRafting the Cloud: Building a Free, Open, and Accessible Cloud
@@ -41,7 +41,19 @@ I am an organiser of the local cloud native community group, so I also play a pa
 
   https://community.cncf.io/events/details/cncf-cloud-native-mauritius-presents-cloud-native-mauritius-december-meetup/
 
+**2026**
+- Kubernetes Workshop
+
+  https://ocgroups.dev/cncf/group/58jha3y/event/haajzw4
+
 ### Developers Conference Mauritius
+**2026**
+https://conference.mscc.mu/agenda/1149805
+- How And Why to Build a Cloud Service Provider From Scratch.
+https://conference.mscc.mu/agenda/1170540
+- The Safe and Fast Future of Programming: Introducing Rust
+
+
 **2025**
 
 https://conference.mscc.mu/agenda/865724
